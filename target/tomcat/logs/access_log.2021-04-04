@@ -1,0 +1,9 @@
+127.0.0.1 - - [04/Apr/2021:23:44:44 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-2 0
+127.0.0.1 - - [04/Apr/2021:23:44:44 +0200] "GET /TP3Ensta HTTP/1.1" 302 - http-bio-8080-exec-1 0
+127.0.0.1 - - [04/Apr/2021:23:44:53 +0200] "GET /TP3Ensta/dashboard HTTP/1.1" 200 7264 http-bio-8080-exec-3 9259
+127.0.0.1 - - [04/Apr/2021:23:44:54 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+127.0.0.1 - - [04/Apr/2021:23:44:57 +0200] "GET /TP3Ensta/membre_add HTTP/1.1" 200 4837 http-bio-8080-exec-7 389
+127.0.0.1 - - [04/Apr/2021:23:44:58 +0200] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-8 0
+127.0.0.1 - - [04/Apr/2021:23:45:11 +0200] "POST /LibraryManager/membre_add HTTP/1.1" 404 - http-bio-8080-exec-9 0
+127.0.0.1 - - [04/Apr/2021:23:45:16 +0200] "GET /TP3Ensta/membre_list HTTP/1.1" 200 9641 http-bio-8080-exec-10 441
+127.0.0.1 - - [04/Apr/2021:23:45:50 +0200] "GET /TP3Ensta/membre_list HTTP/1.1" 200 9641 http-bio-8080-exec-1 128
